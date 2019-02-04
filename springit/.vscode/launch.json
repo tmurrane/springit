@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringitApplication",
+            "request": "launch",
+            "mainClass": "com.murrane.springit.SpringitApplication",
+            "projectName": "springit"
+        }
+    ]
+}
